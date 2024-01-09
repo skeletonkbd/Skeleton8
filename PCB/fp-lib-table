@@ -1,0 +1,10 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Keebio-Parts")(type "KiCad")(uri "${KIPRJMOD}/lib/Keebio-Parts.pretty")(options "")(descr ""))
+  (lib (name "keebio-components")(type "KiCad")(uri "${KIPRJMOD}/lib/keebio-components")(options "")(descr ""))
+  (lib (name "MX_Hotswap")(type "KiCad")(uri "${KIPRJMOD}/lib/MX_V2/MX_Hotswap.pretty")(options "")(descr ""))
+  (lib (name "acheron_Connectors")(type "KiCad")(uri "${KIPRJMOD}/lib/acheron_Connectors.pretty")(options "")(descr ""))
+  (lib (name "acheron_Components")(type "KiCad")(uri "${KIPRJMOD}/lib/acheron_Components.pretty")(options "")(descr ""))
+  (lib (name "LTW-C230DS")(type "KiCad")(uri "${KIPRJMOD}/lib/LTW-C230DS/LTW-C230DS.pretty")(options "")(descr ""))
+  (lib (name "project")(type "KiCad")(uri "${KIPRJMOD}/lib/project.pretty")(options "")(descr ""))
+)
