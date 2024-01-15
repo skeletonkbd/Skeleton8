@@ -4,5 +4,6 @@
 
  This is a 4x2 macropad assuming PCBA with stacked acrylic case.
 
-Firmware here
+### Firmware here
+
 https://github.com/skeletonkbd/qmk_firmware/tree/Skeleton8/keyboards/skeletonkbd/skeleton8
